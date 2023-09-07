@@ -2,9 +2,14 @@ import { useLanguage } from "../hooks/LanguageContext.hook";
 import styles from "../assets/css/OrderPart.module.css";
 import OrderItem from "../UI/order-item/OrderItem";
 import OrderButtons from "../UI/order-item/order-buttons/OrderButtons";
+import {useNavigate} from 'react-router-dom';
 
 export default function OrderPart() {
     const {language, data} = useLanguage();
+    const navigate = useNavigate();
+    const navigateToOrders = () => {
+        navigate("/order");
+    }
     return(
         <section id="pricing_part" className={styles.container}>
             <table className={styles.table}>
@@ -61,7 +66,7 @@ export default function OrderPart() {
                 </tfoot>
             </table>
             <div className={styles.purchase}>
-                <div className={styles.btn}>
+                <div onClick={navigateToOrders} className={styles.btn}>
                     <img src="./pics/plus.png" alt="plus" />
                     <span className={styles.a}>{data.order.purchaseExtras[language]}</span>
                 </div>        
