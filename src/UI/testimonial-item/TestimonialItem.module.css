@@ -1,0 +1,40 @@
+.cont {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #bbb;
+    background-color: #363636;
+}
+.msg {
+    width: 600px;
+    margin-right: 20px;
+}
+.msg_c {
+    position: relative;
+    padding: 18px 32px;
+}
+.msg_c .ltick{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.msg_c .rtick{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.prsn {
+    text-align: left;
+    width: 370px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.name {
+    color: white;
+}
+.country {
+    color: #888;
+}
