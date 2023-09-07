@@ -22,7 +22,7 @@ export default function NavigationPanel({checkPage = false}) {
                             <li>{data.menu.info[language]}</li>
                             <li><a href = "#features_part">{data.menu.features[language]}</a></li>
                             <li><a href = "#download_part">{data.menu.download[language]}</a></li>
-                            <li><a href = "pricing_part">{data.menu.pricing[language]}</a></li>
+                            <li><a href = "#pricing_part">{data.menu.pricing[language]}</a></li>
                             <li><a href = "#contact_part">{data.menu.contact[language]}</a></li>
                             <li onClick={navigateToTestimonials}>{data.menu.testimonials[language]}</li>
                         </>
