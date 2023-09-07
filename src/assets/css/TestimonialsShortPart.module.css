@@ -1,0 +1,26 @@
+.container {
+    background-color: #363636;
+}
+.more {
+    padding: 0 60px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: self-end;
+}
+.btn:hover {
+    cursor: pointer;
+}
+.btn:hover span {
+    text-decoration: underline 1px #2c93e3;
+}
+.btn {
+    margin: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.navigate {
+    font-size: 14px;
+    color: #747474;
+}

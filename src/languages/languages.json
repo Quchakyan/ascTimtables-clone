@@ -1,0 +1,1026 @@
+{
+    "menu" : {
+        "home" : {
+            "am" : "Գլխավոր",
+            "ru" : "Главная",
+            "en" : "Home"
+        },
+        "info" : {
+            "am" : "Ինֆո",
+            "ru" : "Инфо",
+            "en" : "Info"
+        },
+        "features" : {
+            "am" : "Հատկություններ",
+            "ru" : "функции",
+            "en" : "Features"
+        },
+        "download" : {
+            "am" : "Բեռնել",
+            "ru" : "Скачать",
+            "en" : "Download"
+        },
+        "pricing" : {
+            "am" : "Գներ",
+            "ru" : "Цены",
+            "en" : "Pricing"
+        },
+        "contact" : {
+            "am" : "Կոնտակտ",
+            "ru" : "Контакты",
+            "en" : "Contact"
+        },
+        "testimonials" : {
+            "am" : "Գնահատականներ",
+            "ru" : "Отзывы",
+            "en" : "Testimonials"
+        }
+    },
+    "statistics" : {
+        "years" : {
+            "am" : "Տարի",
+            "ru" : "Годов",
+            "en" : "Years"
+        },
+        "countries" : {
+            "am" : "Երկիր",
+            "ru" : "Стран",
+            "en" : "Countries"
+        },
+        "schools" : {
+            "am" : "Դպրոցներ",
+            "ru" : "Школы",
+            "en" : "Schools"
+        },
+        "timetables" : {
+            "am" : "Դասացուցակ",
+            "ru" : "Графиков",
+            "en" : "Timetables"
+        }
+    },
+    "services" : [ 
+        {
+            "pic": "./pics/award.png",
+            "title" : {
+                "am" : "Պարգևատրված",
+                "ru" : "Награжден",
+                "en" : "Award winning"
+            },
+            "description" : {
+                "am" : "Դպրոցական պլանավորման ծրագիր",
+                "ru" : "Программное обеспечение для школьного расписания",
+                "en" : "School scheduling software"
+            }
+        },
+        {
+            "pic": "./pics/bulb.png",
+            "title" : {
+                "am" : "Ավտոմատ արտադրություն",
+                "ru" : "Автоматическая генерация",
+                "en" : "Automatic generation"
+            },
+            "description" : {
+                "am" : "Թող համակարգիչը կատարի աշխատանքը",
+                "ru" : "Пусть компьютер сделает всю работу",
+                "en" : "Let the computer do the work"
+            }
+        },
+        {
+            "pic": "./pics/feather.png",
+            "title" : {
+                "am" : "Հեշտ է օգտագործել",
+                "ru" : "Легко использовать",
+                "en" : "Easy to use"
+            },
+            "description" : {
+                "am" : "Տեխնիկական հմտություններ չեն պահանջվում",
+                "ru" : "Никаких технических навыков не требуется",
+                "en" : "No technical skills required"
+            }
+        },
+        {
+            "pic": "./pics/gear.png",
+            "title" : {
+                "am" : "Ձեռքով ճշգրտումներ",
+                "ru" : "Ручная регулировка",
+                "en" : "Manual adjustments"
+            },
+            "description" : {
+                "am" : "Դուք լիովին վերահսկում եք",
+                "ru" : "Вы полностью контролируете",
+                "en" : "No technical skills required"
+            }
+        },
+        {
+            "pic": "./pics/plane.png",
+            "title" : {
+                "am" : "Բազմակողմանի",
+                "ru" : "Универсальный",
+                "en" : "Versatile"
+            },
+            "description" : {
+                "am" : "Տոննա հատկանիշներ",
+                "ru" : "Множество функций",
+                "en" : "Tons of features"
+            }
+        }
+    ],
+    "scheduling" : {
+        "title" : {
+            "am" : "Կատարյալ պլանավորում",
+            "ru" : "Идеальное планирование",
+            "en" : "Perfect scheduling"
+        },
+        "description" : {
+            "am" : "Պարզապես մուտքագրեք ձեր պահանջները, հանգիստ նստեք և թույլ տվեք, որ մեր ժամանակացույցի ծրագրակազմը գնահատի ավելի քան 5,000,000 հնարավորություններ՝ ստեղծելու գեղեցիկ հավասարակշռված ժամանակացույց, որը ոչ միայն կհամապատասխանի ձեր չափանիշներին, այլև կարժանանա ձեր ուսանողների և գործընկերների հավանությանը:",
+            "ru" : "Просто введите свои требования, расслабьтесь и позвольте нашему программному обеспечению для составления расписаний оценить более 5 000 000 возможностей и составить прекрасно сбалансированное расписание, которое не только будет соответствовать вашим критериям, но и заслужит одобрение ваших учеников и коллег.",
+            "en" : "Simply enter your requirements, sit back and let our timetabling software evaluate over 5,000,000 possibilities to come up with a beautifully-balanced schedule that will not only meet your criteria but win the approval of your students and colleagues as well."
+        }
+    },
+    "quickEasy" : {
+        "title" : {
+            "am" : "Արագ և Հեշտ",
+            "ru" : "Быстро и Легко",
+            "en" : "Quick ‘n’ Easy"
+        },
+        "description" : {
+            "am" : "Թեև որոշ ուսուցիչներ կարծում են, որ ascTimetables-ը խլել է դպրոցական ժամանակացույցի պլանավորման ամբողջ հաճույքը, ուսուցիչների մեծ մասը համաձայն է, որ ascTimetables արագ «n» հեշտ ժամանակացույցի ծրագրակազմն իրենց ժամանակացույցի աղոթքների պատասխանն է:",
+            "ru" : "Хотя некоторые учителя считают, что ascTimetables лишили планирования школьного расписания всего удовольствия, большинство учителей согласны с тем, что программное обеспечение для быстрого и простого планирования ascTimetables является ответом на их молитвы о составлении расписания.",
+            "en" : "Although some teachers think ascTimetables have taken all the fun out of planning school schedules, most teachers agree that ascTimetables quick ‘n’ easy scheduling software is the answer to their timetabling prayers"
+        }
+    },
+    "oneMore" : {
+        "title" : {
+            "am" : "... ևս մեկ բան",
+            "ru" : "… еще одна вещь",
+            "en" : "… just one more thing"
+        },
+        "description" : {
+            "am" : "Ինչ-որ մեկը սխալվե՞լ է: Պետք է նորից անել այդ ամենը: Ոչ մի անհանգստություն. Կարիք չկա մինչև տասը հաշվել, և հազիվ թե սուրճ խմելու ժամանակ լինի: Ծրագիրը ավտոմատ կերպով վերադասավորում է և տեղավորում է բոլոր փոփոխությունները մի ակնթարթում:",
+            "ru" : "Кто-то допустил ошибку? Придется делать все это снова? Не беспокойся. Не нужно считать до десяти – и вряд ли найдется время выпить кофе. Программное обеспечение автоматически перепланирует и мгновенно приспособится ко всем изменениям.",
+            "en" : "Someone made a mistake? Got to do it all again? No worries. No need to count to ten – and hardly time to grab a coffee. The software automatically reschedules and accommodates for all changes in an instant. "
+        }
+    },
+    "printing" : {
+        "title" : {
+            "am" : "Տպագրություն",
+            "ru" : "Печать",
+            "en" : "Printing"
+        },
+        "description" : {
+            "am" : "Տպել Երբ գոհ եք ascTimetables-ի նոր ժամանակացույցից, տպեք այն յուրաքանչյուր դասի, յուրաքանչյուր դասարանի, յուրաքանչյուր ուսուցչի համար կամ նույնիսկ անհատականացված պատճենները բաժանեք առանձին ուսանողների: Դուք կարող եք հարմարեցնել տառատեսակները, դասավորությունը և լոգոները՝ արտահանել pdf, Excel կամ համօգտագործել առցանց",
+            "ru" : "Печать. Как только вы будете удовлетворены новым расписанием ascTimetables, распечатайте его для каждого класса, для каждого класса, для каждого учителя или даже раздайте индивидуальные копии отдельным учащимся. Вы можете настроить шрифты, макет и логотипы — экспортируйте в PDF, Excel или поделитесь ими в Интернете.",
+            "en" : "Once you’re satisfied with ascTimetables new schedule, print it out for each class, for each classroom, for each teacher, or even hand out personalized copies to individual students. You can customize fonts, layout, and logos – export to pdf, Excel or share online"
+        }
+    },
+    "advanced" : {
+        "title" : {
+            "am" : "Ընդլայնված",
+            "ru" : "Передовой",
+            "en" : "Advanced"
+        },
+        "description" : {
+            "am" : "Դասերի բաժանում, կենտ և զույգ շաբաթներ, շաբաթօրյա դպրոց, կամընտիր դասընթացներ... մեր ժամանակացույցի ծրագիրը կարող է կարգավորել դրանք բոլորը: Փորձված, փորձարկված և անընդհատ մշակման մեջ է ամբողջ աշխարհում մոտ 20 տարի. ոչ մի պլանավորման առաջադրանք չափազանց բարդ չէ ascTimetables-ի համար:",
+            "ru" : "Разделение классов, четные и нечетные недели, субботняя школа, факультативные курсы... наше программное обеспечение для планирования справится со всем этим. Опробовано, протестировано и постоянно развивается по всему миру в течение почти 20 лет — для ascTimetables нет слишком сложных задач по планированию.",
+            "en" : "Dividing a class, odd and even weeks, Saturday school, optional courses... our scheduling software can handle them all. Tried, tested and in constant development around the world for nearly 20 years – no scheduling task is too complex for ascTimetables."
+        }
+    },
+    "features" : [
+        {
+            "image" : "./pics/bulb.png",
+            "title" : {
+                "am" : "Ավտոմատ Արտադրություն",
+                "ru" : "Автоматическая Генерация",
+                "en" : "Automatic Generation"
+            },
+            "description" : {
+                "am" : "Թույլ տվեք համակարգչին աշխատանքը կատարել ձեր փոխարեն",
+                "ru" : "Пусть компьютер сделает всю работу за вас",
+                "en" : "Let the computer do the work for you"
+            }
+        },
+        {
+            "image" : "./pics/feather.png",
+            "title" : {
+                "am" : "Ձեռքով ճշգրտումներ",
+                "ru" : "Ручная регулировка",
+                "en" : "Manual adjustments"
+            },
+            "description" : {
+                "am" : "Երբ ժամանակացույցը ստեղծվի, դուք կարող եք ազատորեն կատարել ցանկացած ձեռքով ճշգրտումներ, որոնք ցանկանում եք",
+                "ru" : "После создания расписания вы можете вносить любые изменения вручную, какие захотите.",
+                "en" : "Once a schedule’s been generated you’re free to make any manual adjustments you like"
+            }
+        },
+        {
+            "image" : "./pics/plane.png",
+            "title" : {
+                "am" : "Ժամանակացույցի ստուգում",
+                "ru" : "Проверка расписания",
+                "en" : "Verifying the Schedule"
+            },
+            "description" : {
+                "am" : "Մեր ալգորիթմը արագ ստուգում է ժամանակացույցը ցանկացած կոնֆլիկտների համար",
+                "ru" : "Наш алгоритм быстро проверяет расписание на наличие конфликтов",
+                "en" : "Our algorithm quickly checks the schedule for any conflicts"
+            }
+        },
+        {
+            "image" : "./pics/gear.png",
+            "title" : {
+                "am" : "Պարզ տվյալների մուտքագրում",
+                "ru" : "Простой ввод данных",
+                "en" : "Simple data entry"
+            },
+            "description" : {
+                "am" : "Մենք կատարել ենք նախնական գործընթացը հնարավորինս արագ և հեշտ",
+                "ru" : "Мы сделали первоначальный процесс максимально быстрым и простым.",
+                "en" : "We’ve made the initial process as fast and easy as possible"
+            }
+        },
+        {
+            "image" : "./pics/bulb.png",
+            "title" : {
+                "am" : "Բջջային",
+                "ru" : "Мобильный",
+                "en" : "Mobile"
+            },
+            "description" : {
+                "am" : "Հրապարակեք ձեր ժամանակացույցը և հասանելի դարձրեք այն ուսուցիչներին և ուսանողներին իրենց շարժական սարքերով",
+                "ru" : "Опубликуйте свое расписание и сделайте его доступным учителям и ученикам на их мобильных устройствах.",
+                "en" : "Publish your schedule and make it available to teachers and students on their mobile devices"
+            }
+        },
+        {
+            "image" : "./pics/plane.png",
+            "title" : {
+                "am" : "Տվյալների ներմուծում",
+                "ru" : "Импорт данных",
+                "en" : "Data import"
+            },
+            "description" : {
+                "am" : "Դուք հավանաբար արդեն ունեք տվյալների մեծ մասը էլեկտրոնային ձևով, այնպես որ ձեզ մնում է միայն ներմուծել դրանք",
+                "ru" : "Вероятно, у вас уже есть большая часть данных в электронном виде, поэтому все, что вам нужно сделать, это импортировать их.",
+                "en" : "You probably already have most of the data in electronic form, so alll you have to do is import it"
+            }
+        },
+        {
+            "image" : "./pics/gear.png",
+            "title" : {
+                "am" : "Կառուցվածք",
+                "ru" : "Строение",
+                "en" : "Buildings"
+            },
+            "description" : {
+                "am" : "ascTimetables-ն աջակցում է բազմաթիվ շենքերի դասասենյակներին և կարող է օպտիմալացնել շարժումը շենքերի միջև",
+                "ru" : "ascTimetables поддерживает классы в нескольких зданиях и может оптимизировать перемещение между зданиями.",
+                "en" : "ascTimetables supports classrooms in multiple buildings and can optimize movement between buildings"
+            }
+        },
+        {
+            "image" : "./pics/feather.png",
+            "title" : {
+                "am" : "Լիովին կարգավորելի",
+                "ru" : "Полностью настраиваемый",
+                "en" : "Fully customizable"
+            },
+            "description" : {
+                "am" : "Լիովին Դուք կարող եք օգտագործել ծրագրաշարը առանց տուփի կամ հարմարեցնել դրա անհատական առանձնահատկությունները ձեր ցանկությամբ",
+                "ru" : "Полностью Вы можете использовать программу «из коробки» или настроить ее отдельные функции по своему вкусу.",
+                "en" : "Fully You can use the software out-of-the-box or customize its individual features to your liking"
+            }
+        },
+        {
+            "image" : "./pics/bulb.png",
+            "title" : {
+                "am" : "asc-Փոխարինումներ",
+                "ru" : "asc-Замены",
+                "en" : "ascSubstitutions"
+            },
+            "description" : {
+                "am" : "Օգտակար գործիք ուսուցչի փոխարինումների ժամանակացույցի համար՝ լրացված ծանուցումներով և տպագրություններով: Բազմաթիվ օգտատերեր կարող են պլանավորել փոխարինումներ/ծածկույթներ միևնույն ժամանակ, ակնթարթորեն",
+                "ru" : "Полезный инструмент для планирования замены учителей с уведомлениями и распечатками. Несколько пользователей могут одновременно планировать замены/закрытия в любой момент.",
+                "en" : "A useful tool for scheduling teacher substitutions, complete with notifications and printouts. Multiple users can plan substitutions/cover at the same time, at a moment’s notice"
+            }
+        },
+        {
+            "image" : "./pics/feather.png",
+            "title" : {
+                "am" : "asc-Էդյուպաժ",
+                "ru" : "asc-Эдупаж",
+                "en" : "ascEdupage"
+            },
+            "description" : {
+                "am" : "Ստեղծեք խնամված կայք ձեր դպրոցի համար մեր հանրաճանաչ ascEdupage ծրագրով: Դա հեշտ է օգտագործել և անվճար է ascTimetables-ի հետ",
+                "ru" : "Создайте стильный веб-сайт для своей школы с помощью нашей популярной программы ascEdupage. Он прост в использовании и бесплатен благодаря ascTimetables.",
+                "en" : "Create a sleek website for your school with our popular ascEdupage program. It’s easy to use and it’s free with ascTimetables"
+            }
+        },
+        {
+            "image" : "./pics/gear.png",
+            "title" : {
+                "am" : "Տարածաշրջանի հատուկ",
+                "ru" : "Зависит от региона",
+                "en" : "Region specific"
+            },
+            "description" : {
+                "am" : "Քանի որ ascTimetables-ն օգտագործվում է գրեթե բոլոր երկրներում, այն նախագծվել է ամբողջ աշխարհի տարածաշրջանային պահանջներին համապատասխանելու համար:",
+                "ru" : "Поскольку ascTimetables используется практически во всех странах, он был разработан с учетом региональных требований по всему миру.",
+                "en" : "Because ascTimetables is used in almost every country, it has been designed to meet regional requirements around the globe"
+            }
+        },
+        {
+            "image" : "./pics/plane.png",
+            "title" : {
+                "am" : "ascTimetables Առցանց",
+                "ru" : "ascTimetables онлайн",
+                "en" : "ascTimetables Online"
+            },
+            "description" : {
+                "am" : "Դպրոցական պլանավորման հանրահայտ հավելվածի առցանց, վեբ վրա հիմնված ընդլայնում",
+                "ru" : "Онлайн-расширение популярного приложения для школьного расписания.",
+                "en" : "An online, web-based extension of the popular school scheduling application"
+            }
+        },
+        {
+            "image" : "./pics/bulb.png",
+            "title" : {
+                "am" : "Էլեկտրոնային դասի գրանցամատյան",
+                "ru" : "Электронный журнал занятий",
+                "en" : "Electronic class register"
+            },
+            "description" : {
+                "am" : "Օգտագործեք ստեղծված ժամանակացույցը էլեկտրոնային դասերի գրանցումը սկսելու համար: Ձեր ուսուցիչները կարող են հեշտությամբ մուտք գործել, լրացնել ուսումնական ծրագրերը կամ նույնիսկ հաճախել EduPage-ում:",
+                "ru" : "Используйте созданное расписание для запуска электронного журнала занятий. Ваши учителя могут легко войти в систему, заполнить учебные программы или даже следить за посещаемостью на EduPage.",
+                "en" : "Use the created timetable to start the electronic class register. Your teachers can easily log in, fill curriculums or even do attendance on the EduPage."
+            }
+        }
+    ],
+    "moreInfo" : {
+        "am" : "Տեսնել ավելին.",
+        "ru" : "Смотреть больше.",
+        "en" : "More info."
+    },
+    "download" : {
+        "title" : {
+            "am" : "Ներբեռնեք անվճար փորձաշրջան",
+            "ru" : "Загрузите бесплатную пробную версию:",
+            "en" : "Download free trial"
+        },
+        "paragraph_1" : {
+            "am" : "Ծրագիրը գնելու կարիք չկա, քանի դեռ չեք ստեղծել ձեր ժամանակացույցը, և դուք 100%-ով գոհ եք դրանից:",
+            "ru" : "Нет необходимости приобретать программное обеспечение до тех пор, пока вы не составите свое расписание и не будете им на 100 % удовлетворены.",
+            "en" : "No need to purchase the software until after you’ve generated your schedule, and you’re 100% satisfied with it."
+        },
+        "paragraph_2" : {
+            "am" : "Անսահմանափակ անվճար փորձնական տարբերակը կատարում է վճարովի տարբերակի բոլոր գործառույթները՝ բացառությամբ Արտահանման. այն նաև ջրի մակարդակի նշագիծ է ավելացնում բոլոր տպագրություններին:",
+            "ru" : "Безлимитная бесплатная пробная версия выполняет все функции платной версии, кроме экспорта. он также нанес водяной знак на все отпечатки.",
+            "en" : "The unlimited free trial version performs all the functions of the paid version apart from Export - it also adds a watermark to all printouts."
+        },
+        "freeTrial" : {
+            "am" : "Սկսեք անվճար փորձաշրջան",
+            "ru" : "Начать бесплатную пробную версию",
+            "en" : "Start free trial"
+        },
+        "button" : {
+            "title" : {
+                "am" : "Ներբեռնել հիմա",
+                "ru" : "Скачать сейчас",
+                "en" : "Download now"
+            },
+            "name" : "ASC TIMETABLES",
+            "version" : {
+                "am" : "ՏԱՐԲԵՐԱԿ",
+                "ru" : "ВЕРСИЯ",
+                "en" : "VERSION"
+            }
+        }
+    },
+    "order" : {
+        "types" : {
+            "primary" : {
+                "am" : "Տարրական դպրոց",
+                "ru" : "Начальная школа",
+                "en" : "Primary Schools",
+                "desc" : {
+                    "am" : "Հատուկ գին տարրական դպրոցների համար",
+                    "ru" : "Специальная цена для начальных школ.",
+                    "en" : "Special price for elementary schools"
+                },
+                "price" : "$ 399"
+            },
+            "standard" : {
+                "am" : "Ստանդարտ",
+                "ru" : "Стандарт",
+                "en" : "Standard",
+                "desc" : {
+                    "am" : "Դպրոցական պլանավորման անսահմանափակ հնարավորություններ",
+                    "ru" : "Неограниченные возможности школьного планирования",
+                    "en" : "Unlimited school scheduling capabilities"
+                },
+                "price" : "$ 499"
+            },
+            "premium" : {
+                "am" : "Պրեմիում",
+                "ru" : "Премиум",
+                "en" : "Premium",
+                "desc" : {
+                    "am" : "Խնդրեք մեր թիմին օգնել ձեզ ձեր ժամանակացույցի հարցում",
+                    "ru" : "Попросите нашу команду помочь вам с расписанием",
+                    "en" : "Ask our team to help you with your timetable!"
+                },
+                "price" : "$ 995"
+            },
+            "pro" : {
+                "am" : "ՊՌՈ",
+                "ru" : "ПРО",
+                "en" : "PRO",
+                "desc" : {
+                    "am" : "Ստեղծեք անհատական, ուսանողներին հատուկ գրաֆիկներ",
+                    "ru" : "Создавайте индивидуальные расписания для каждого ученика.",
+                    "en" : "Generate individual, student-specific schedules"
+                },
+                "price" : "$ 3995"
+            },
+            "oneTimePayment" : {
+                "am" : "մեկանգամյա վճարում",
+                "ru" : "одноразовый платеж",
+                "en" : "one time payment"
+            }
+        },
+         "features" : [
+            {
+                "am" : "Ավտոմատ գեներատոր",
+                "ru" : "Автоматический генератор",
+                "en" : "Automatic generator"
+            },
+            {
+                "am" : "Մուլտի լիցենզիա բոլոր դպրոցի համակարգիչների համար",
+                "ru" : "Мультилицензия для всех школьных компьютеров",
+                "en" : "Multi-license for all school's computers"
+            },
+            {
+                "am" : "ascՓոխարինումներ",
+                "ru" : "ascЗамены",
+                "en" : "ascSubstitutions"
+            },
+            {
+                "am" : "Բջջային գրաֆիկներ",
+                "ru" : "Мобильные расписания",
+                "en" : "Mobile schedules",
+                "description" : {
+                    "am" : "Աշակերտներին և ուսուցիչներին հասանելի են իրենց հեռախոսների կամ պլանշետների արդի ժամանակացույցերը",
+                    "ru" : "Учащиеся и преподаватели имеют доступ к актуальным расписаниям на своих телефонах или планшетах.",
+                    "en" : "Students and teachers have access to up-to-date schedules on their phones or tablets"
+                }
+            },
+            {
+                "am" : "Անսահմանափակ աջակցություն",
+                "ru" : "Неограниченная поддержка",
+                "en" : "Unlimited support",
+                "description" : {
+                    "am" : "Երկու տարվա աջակցություն և արդիականացում",
+                    "ru" : "Двухлетняя поддержка и обновления",
+                    "en" : "Two years’ support and upgrades"
+                },
+                "isSale" : true
+            },
+            {
+                "am" : "Պրեմիում աջակցություն",
+                "ru" : "Премиум-поддержка",
+                "en" : "Premium support",
+                "description" : {
+                    "am" : "Վերլուծելով, փորձարկելով, վերանայելով և առաջարկելով բարելավումներ ձեր ժամանակացույցում",
+                    "ru" : "Анализ, тестирование, рассмотрение и предложение улучшений в вашем расписании.",
+                    "en" : "Analyzing, testing, reviewing and suggesting improvements to your schedule"
+                },
+                "notAllowed" : [1,2]
+            },
+            {
+                "am" : "Ուսանողների վրա հիմնված ավտոմատ գեներատոր",
+                "ru" : "Студенческий автоматический генератор",
+                "en" : "Student-based automatic generator",
+                "description" : {
+                    "am" : "Ստեղծում է անհատական գրաֆիկներ ուսանողների համար",
+                    "ru" : "Формирует индивидуальное расписание для студентов",
+                    "en" : "Generates individual schedules for students"
+                },
+                "notAllowed" : [1,2,3] 
+            }
+        ],
+        "wordOrder" : {
+            "am" : "Պատվիրել",
+            "ru" : "Заказать",
+            "en" : "Order"
+        },
+        "sale" : {
+            "am" : "Երկրորդ տարուց հետո: $ 79",
+            "ru" : "После второго года: $ 79",
+            "en" : "after 2nd year: $ 79"
+        },
+        "purchaseExtras" : {
+            "am" : "Գնեք միայն հավելյալներ",
+            "ru" : "Покупайте только дополнительные услуги",
+            "en" : "Purchase extras only"
+        },
+        "billingInfo" : {
+            "am" : "Վճարման տեղեկատվություն",
+            "ru" : "Платежная информация",
+            "en" : "Billing Info"
+        },
+        "extras" : {
+            "am" : "Հավելյալ",
+            "ru" : "Дополнительно",
+            "en" : "Extras"
+        },
+        "paymentMethod" : {
+            "am" : "Վճարման մեթոդ",
+            "ru" : "Метод Оплаты",
+            "en" : "Payment Method"
+        },
+        "btnPackage" : {
+            "am" : "Փաթեթի ընտրություն",
+            "ru" : "Выбор пакета",
+            "en" : "Package selection"
+        },
+        "nextStep" : {
+            "am" : "Հաջորդ քայլը",
+            "ru" : "Следующий шаг",
+            "en" : "Next step"
+        },
+        "paymentMethods" : {
+            "card" : {
+                "am" : "Կրեդիտ քարտ",
+                "ru" : "Кредит карта",
+                "en" : "Credit Cart"
+            },
+            "payPal" : {
+                "am" : "Կրեդիտ քարտ (PayPal)",
+                "ru" : "Кредит карта (PayPal)",
+                "en" : "Credit Cart (via PayPal)"
+            },
+            "bankTransfer" : {
+                "am" : "Բանկային փոխանցում",
+                "ru" : "Банковский перевод",
+                "en" : "Bank Transfer"
+            },
+            "cheque" : {
+                "am" : "Չեկ",
+                "ru" : "Чек",
+                "en" : "Cheque"
+            }
+        },
+        "placeOrder" : {
+            "am" : "ՏԵՂԱԴՐԵԼ ՊԱՏՎԵՐ",
+            "ru" : "РАЗМЕСТИТЬ ЗАКАЗ",
+            "en" : "PLACE ORDER"
+        },
+        "payNow" : {
+            "am" : "ՎՃԱՐԵԼ ՀԻՄԱ",
+            "ru" : "ПЛАТИТЬ СЕЙЧАС",
+            "en" : "PAY NOW"
+        },
+        "add" : {
+            "am" : "ԱՎԵԼԱՑՆԵԼ",
+            "ru" : "ДОБАВИТЬ",
+            "en" : "ADD"
+        },
+        "remove" : {
+            "am" : "ՀԱՆԵԼ",
+            "ru" : "СНИМАТЬ",
+            "en" : "REMOVE"
+        },
+        "extraFeatures" : {
+            "mac" :{
+                "price" : 10,
+                "title" : {
+                    "am" : "Մակ Լիցենզիա",
+                    "ru" : "Мак Лицензия",
+                    "en" : "Mac license"
+                },
+                "paragraph" : {
+                    "am" : "Օգտագործեք ձեր ascTimetables-ը mac մեքենայի վրա",
+                    "ru" : "Используйте свои ascTimetables на компьютере Mac",
+                    "en" : "Use your ascTimetables on mac machine"
+                }
+            }, 
+            "yearly" : {
+                "price" : 79,
+                "title" : {
+                    "am" : "Տարեկան սպասարկում",
+                    "ru" : "Годовое обслуживание",
+                    "en" : "Yearly maintenance"
+                },
+                "paragraph" : {
+                    "am" : "12 ամիս լրացուցիչ աջակցություն և թարմացումներ",
+                    "ru" : "12 месяцев дополнительной поддержки и обновлений",
+                    "en" : "12 months of additional support and upgrades"
+                }
+            },
+            "texts" : {
+                "price" : 49,
+                "title" : {
+                    "am" : "500 asc-Փոխարինող տեքստ",
+                    "ru" : "500 asc-Замен тексты",
+                    "en" : "500 ascSubstitutions texts"
+                },
+                "paragraph" : {
+                    "am" : "500 sms տեքստային հաղորդագրություններ",
+                    "ru" : "500 смс текстовых сообщений",
+                    "en" : "500 sms text messages "
+                }
+            }
+        }
+    },
+    "form" : {
+        "title" : {
+            "am" : "Հարցրեք գնի մասին",
+            "ru" : "Узнать о ценах",
+            "en" : "Inquire about pricing"
+        },
+        "paragraph" : {
+            "am" : "Խնդրում ենք տրամադրել ձեր կոնտակտային տվյալները, և մեր տարածաշրջանային գործընկերը կկապվի ձեզ հետ առաջարկով:",
+            "ru" : "Укажите свои контактные данные, и наш региональный партнер свяжется с вами и предложит предложение.",
+            "en" : "Please provide your contact info and our regional partner will contact you with an offer."
+        },
+        "schoolName" : {
+            "am" : "Դպրոցի անունը",
+            "ru" : "Имя Школы",
+            "en" : "Name of school"
+        },
+        "address" : {
+            "am" : "Հասցե",
+            "ru" : "Адресс",
+            "en" : "Address"
+        },
+        "city" : {
+            "am" : "Քաղաք",
+            "ru" : "Город",
+            "en" : "City"
+        },
+        "country" : {
+            "am" : "Երկիր",
+            "ru" : "Страна",
+            "en" : "Country"
+        },
+        "countryList" : [
+            {
+                "am" : "Հայաստան",
+                "ru" : "Армения",
+                "en" : "Armania"
+            },
+            {
+                "am" : "Ռուսաստան",
+                "ru" : "Россия",
+                "en" : "Russia"
+            },
+            {
+                "am" : "Ա․Մ․Ն",
+                "ru" : "С.Ш.А",
+                "en" : "U.S.A"
+            }
+        ],
+        "contactPerson" : {
+            "am" : "Կոնտակտային անձ",
+            "ru" : "Контактное лицо",
+            "en" : "Contact Person"
+        },
+        "email" : {
+            "am" : "Էլ․ Հասցե",
+            "ru" : "Эл. Почта",
+            "en" : "Email"
+        },
+        "phoneNumber": {
+            "am" : "Հեռախոսահամար",
+            "ru" : "Номер телефона",
+            "en" : "Phone Number"
+        },
+        "confirmEmail" : {
+            "am" : "Հաստատեք էլ․ հասցեն",
+            "ru" : "Подтвердите эл. почту",
+            "en" : "Confirm email"
+        },
+        "send" : {
+            "am" : "Ուղարկել",
+            "ru" : "Отправить",
+            "en" : "Send"
+        },
+        "comment" : {
+            "am" : "Քոմենթ",
+            "ru" : "Коммент",
+            "en" : "Comment"
+        }
+    },
+    "contactForm" : {
+        "title" : {
+            "am" : "Կոնտակտ",
+            "ru" : "Контакт",
+            "en" : "Contact"
+        },
+        "paragraph" :  {
+            "am" : "Հարցրեք մեզ ինչ-որ բան",
+            "ru" : "Спросите нас о чем угодно",
+            "en" : "Ask us anything"
+        },
+        "comment" :  {
+            "am" : "Քոմենթ",
+            "ru" : "Коммент",
+            "en" : "Comment"
+        }
+    },
+    "footer" : {
+        "paragraph" : {
+            "am" : "aSc կիրառական ծրագրերի խորհրդատուներ",
+            "ru" : "Консультанты aSc по прикладному программному обеспечению",
+            "en" : "aSc Applied Software Consultants"
+        },
+        "subParagraph" : {
+            "am" : "Ծառայությունների մատուցման պայմաններ",
+            "ru" : "Условия использования",
+            "en" : "Terms of service"
+        }
+    },
+    "seeMoreTestimonials" : {
+        "am" : "տես ավելի շատ քոմենթներ...",
+        "ru" : "посмотреть больше отзывов...",
+        "en" : "See more testimonials..."
+    },
+    "testimonials" : [
+        {
+            "message" : {
+                "am" : "Եվս մեկ անգամ. ձեր ծրագիրն արել է ամեն ինչ և ավելին: Ես սիրում եմ այն:",
+                "ru" : "Еще раз – ваша программа сделала все и даже больше.Я люблю это!",
+                "en" : "Once again – your program has done everything and more.I love it!"
+            },
+            "pic" : "./pics/client.png",
+            "name" : {
+                "am" : "Ֆրենկ Սէմուելս",
+                "ru" : "Френк Сэмуелс",
+                "en" : "Frank Samuels"
+            },
+            "school" : {
+                "am" : "Էլիթս Չեիմ Դպրոց",
+                "ru" : "Школа Элитс Чеим",
+                "en" : "Eitz Chaim Schools"
+            },
+            "country" : {
+                "am" : "Կանադա",
+                "ru" : "Канада",
+                "en" : "Canada"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Այս ծրագիրը լավագույնն է, և մենք անպայման խորհուրդ կտանք այն շատ այլ հաստատությունների: Շնորհակալություն մեզ համար սա հասանելի դարձնելու համար:",
+                "ru" : "Это программное обеспечение является лучшим, и мы обязательно порекомендуем его многим другим учреждениям. Спасибо, что сделали это доступным для нас.",
+                "en" : "This software is the best and we’ll definitely recommend it to many other institutions. Thank you for making this available for us."
+            },
+            "pic" : "./pics/client2.png",
+            "name" : {
+                "am" : "Փրասաննա Բ",
+                "ru" : "Прассана Б",
+                "en" : "Prasanna B"
+            },
+            "school" : {
+                "am" : "Navrachana միջազգային դպրոց",
+                "ru" : "Международная школа Navrachana",
+                "en" : "Navrachana International School"
+            },
+            "country" : {
+                "am" : "Հնդկաստան",
+                "ru" : "Индия",
+                "en" : "India"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Շնորհակալություն ձեր արագ պատասխանի և շարունակական աջակցության համար, որը ես նախկինում չեմ տեսել:",
+                "ru" : "Спасибо за ваш быстрый ответ и постоянную поддержку, которой я никогда раньше не видел.",
+                "en" : "Thank you for your quick reply and continuous support which I have never seen before."
+            },
+            "pic" : "./pics/client3.png",
+            "name" : {
+                "am" : "Հիշամ Համաշ",
+                "ru" : "Хишам Аммаш",
+                "en" : "Hisham Hammash"
+            },
+            "school" : {
+                "am" : "Աբու Դաբի պոլիտեխնիկ",
+                "ru" : "Политехнический институт Абу-Даби",
+                "en" : "Abu Dhabi Polytechnic"
+            },
+            "country" : {
+                "am" : "Աբու Դաբի, Ա.Մ.Է.",
+                "ru" : "Абу Даби, О.А.Э.",
+                "en" : "Abu Dhabi, U.A.E."
+            }
+        },
+        {
+            "message" : {
+                "am" : "Եվս մեկ անգամ. ձեր ծրագիրն արել է ամեն ինչ և ավելին: Ես սիրում եմ այն:",
+                "ru" : "Еще раз – ваша программа сделала все и даже больше.Я люблю это!",
+                "en" : "Once again – your program has done everything and more.I love it!"
+            },
+            "pic" : "./pics/client.png",
+            "name" : {
+                "am" : "Ֆրենկ Սէմուելս",
+                "ru" : "Френк Сэмуелс",
+                "en" : "Frank Samuels"
+            },
+            "school" : {
+                "am" : "Էլիթս Չեիմ Դպրոց",
+                "ru" : "Школа Элитс Чеим",
+                "en" : "Eitz Chaim Schools"
+            },
+            "country" : {
+                "am" : "Կանադա",
+                "ru" : "Канада",
+                "en" : "Canada"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Այս ծրագիրը լավագույնն է, և մենք անպայման խորհուրդ կտանք այն շատ այլ հաստատությունների: Շնորհակալություն մեզ համար սա հասանելի դարձնելու համար:",
+                "ru" : "Это программное обеспечение является лучшим, и мы обязательно порекомендуем его многим другим учреждениям. Спасибо, что сделали это доступным для нас.",
+                "en" : "This software is the best and we’ll definitely recommend it to many other institutions. Thank you for making this available for us."
+            },
+            "pic" : "./pics/client2.png",
+            "name" : {
+                "am" : "Փրասաննա Բ",
+                "ru" : "Прассана Б",
+                "en" : "Prasanna B"
+            },
+            "school" : {
+                "am" : "Navrachana միջազգային դպրոց",
+                "ru" : "Международная школа Navrachana",
+                "en" : "Navrachana International School"
+            },
+            "country" : {
+                "am" : "Հնդկաստան",
+                "ru" : "Индия",
+                "en" : "India"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Շնորհակալություն ձեր արագ պատասխանի և շարունակական աջակցության համար, որը ես նախկինում չեմ տեսել:",
+                "ru" : "Спасибо за ваш быстрый ответ и постоянную поддержку, которой я никогда раньше не видел.",
+                "en" : "Thank you for your quick reply and continuous support which I have never seen before."
+            },
+            "pic" : "./pics/client3.png",
+            "name" : {
+                "am" : "Հիշամ Համաշ",
+                "ru" : "Хишам Аммаш",
+                "en" : "Hisham Hammash"
+            },
+            "school" : {
+                "am" : "Աբու Դաբի պոլիտեխնիկ",
+                "ru" : "Политехнический институт Абу-Даби",
+                "en" : "Abu Dhabi Polytechnic"
+            },
+            "country" : {
+                "am" : "Աբու Դաբի, Ա.Մ.Է.",
+                "ru" : "Абу Даби, О.А.Э.",
+                "en" : "Abu Dhabi, U.A.E."
+            }
+        },
+        {
+            "message" : {
+                "am" : "Եվս մեկ անգամ. ձեր ծրագիրն արել է ամեն ինչ և ավելին: Ես սիրում եմ այն:",
+                "ru" : "Еще раз – ваша программа сделала все и даже больше.Я люблю это!",
+                "en" : "Once again – your program has done everything and more.I love it!"
+            },
+            "pic" : "./pics/client.png",
+            "name" : {
+                "am" : "Ֆրենկ Սէմուելս",
+                "ru" : "Френк Сэмуелс",
+                "en" : "Frank Samuels"
+            },
+            "school" : {
+                "am" : "Էլիթս Չեիմ Դպրոց",
+                "ru" : "Школа Элитс Чеим",
+                "en" : "Eitz Chaim Schools"
+            },
+            "country" : {
+                "am" : "Կանադա",
+                "ru" : "Канада",
+                "en" : "Canada"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Այս ծրագիրը լավագույնն է, և մենք անպայման խորհուրդ կտանք այն շատ այլ հաստատությունների: Շնորհակալություն մեզ համար սա հասանելի դարձնելու համար:",
+                "ru" : "Это программное обеспечение является лучшим, и мы обязательно порекомендуем его многим другим учреждениям. Спасибо, что сделали это доступным для нас.",
+                "en" : "This software is the best and we’ll definitely recommend it to many other institutions. Thank you for making this available for us."
+            },
+            "pic" : "./pics/client2.png",
+            "name" : {
+                "am" : "Փրասաննա Բ",
+                "ru" : "Прассана Б",
+                "en" : "Prasanna B"
+            },
+            "school" : {
+                "am" : "Navrachana միջազգային դպրոց",
+                "ru" : "Международная школа Navrachana",
+                "en" : "Navrachana International School"
+            },
+            "country" : {
+                "am" : "Հնդկաստան",
+                "ru" : "Индия",
+                "en" : "India"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Շնորհակալություն ձեր արագ պատասխանի և շարունակական աջակցության համար, որը ես նախկինում չեմ տեսել:",
+                "ru" : "Спасибо за ваш быстрый ответ и постоянную поддержку, которой я никогда раньше не видел.",
+                "en" : "Thank you for your quick reply and continuous support which I have never seen before."
+            },
+            "pic" : "./pics/client3.png",
+            "name" : {
+                "am" : "Հիշամ Համաշ",
+                "ru" : "Хишам Аммаш",
+                "en" : "Hisham Hammash"
+            },
+            "school" : {
+                "am" : "Աբու Դաբի պոլիտեխնիկ",
+                "ru" : "Политехнический институт Абу-Даби",
+                "en" : "Abu Dhabi Polytechnic"
+            },
+            "country" : {
+                "am" : "Աբու Դաբի, Ա.Մ.Է.",
+                "ru" : "Абу Даби, О.А.Э.",
+                "en" : "Abu Dhabi, U.A.E."
+            }
+        },
+        {
+            "message" : {
+                "am" : "Եվս մեկ անգամ. ձեր ծրագիրն արել է ամեն ինչ և ավելին: Ես սիրում եմ այն:",
+                "ru" : "Еще раз – ваша программа сделала все и даже больше.Я люблю это!",
+                "en" : "Once again – your program has done everything and more.I love it!"
+            },
+            "pic" : "./pics/client.png",
+            "name" : {
+                "am" : "Ֆրենկ Սէմուելս",
+                "ru" : "Френк Сэмуелс",
+                "en" : "Frank Samuels"
+            },
+            "school" : {
+                "am" : "Էլիթս Չեիմ Դպրոց",
+                "ru" : "Школа Элитс Чеим",
+                "en" : "Eitz Chaim Schools"
+            },
+            "country" : {
+                "am" : "Կանադա",
+                "ru" : "Канада",
+                "en" : "Canada"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Այս ծրագիրը լավագույնն է, և մենք անպայման խորհուրդ կտանք այն շատ այլ հաստատությունների: Շնորհակալություն մեզ համար սա հասանելի դարձնելու համար:",
+                "ru" : "Это программное обеспечение является лучшим, и мы обязательно порекомендуем его многим другим учреждениям. Спасибо, что сделали это доступным для нас.",
+                "en" : "This software is the best and we’ll definitely recommend it to many other institutions. Thank you for making this available for us."
+            },
+            "pic" : "./pics/client2.png",
+            "name" : {
+                "am" : "Փրասաննա Բ",
+                "ru" : "Прассана Б",
+                "en" : "Prasanna B"
+            },
+            "school" : {
+                "am" : "Navrachana միջազգային դպրոց",
+                "ru" : "Международная школа Navrachana",
+                "en" : "Navrachana International School"
+            },
+            "country" : {
+                "am" : "Հնդկաստան",
+                "ru" : "Индия",
+                "en" : "India"
+            }
+        },
+        {
+            "message" : {
+                "am" : "Շնորհակալություն ձեր արագ պատասխանի և շարունակական աջակցության համար, որը ես նախկինում չեմ տեսել:",
+                "ru" : "Спасибо за ваш быстрый ответ и постоянную поддержку, которой я никогда раньше не видел.",
+                "en" : "Thank you for your quick reply and continuous support which I have never seen before."
+            },
+            "pic" : "./pics/client3.png",
+            "name" : {
+                "am" : "Հիշամ Համաշ",
+                "ru" : "Хишам Аммаш",
+                "en" : "Hisham Hammash"
+            },
+            "school" : {
+                "am" : "Աբու Դաբի պոլիտեխնիկ",
+                "ru" : "Политехнический институт Абу-Даби",
+                "en" : "Abu Dhabi Polytechnic"
+            },
+            "country" : {
+                "am" : "Աբու Դաբի, Ա.Մ.Է.",
+                "ru" : "Абу Даби, О.А.Э.",
+                "en" : "Abu Dhabi, U.A.E."
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+.cont {
+    margin-top: 40px;
+    background-color: #000;
+    color: white;
+}
+.ft {
+    width: 990px;
+    margin: auto;
+    display: flex;
+    padding: 36px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.p {
+    font-size: 12px;
+}
+.sub {
+    color: #ccc;
+    font-size: 11px;
+}

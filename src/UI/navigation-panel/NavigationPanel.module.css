@@ -1,0 +1,19 @@
+.ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    border-bottom: 1px solid #585858;
+}
+.ul li {
+    margin: 0 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #585858;
+    transition: 0.4s;
+    font-size: 14px;
+}
+.ul li:hover {
+    color: black;
+    cursor: pointer;
+}

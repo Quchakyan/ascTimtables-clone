@@ -1,0 +1,25 @@
+.cont {
+    display: flex;
+    align-items: center;
+    margin: 6px 0;
+}
+.pic {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 40px;
+}
+.pic img {
+    height: 36px;
+}
+.desc {
+    width: calc(100% - 40px);
+}
+.desc h4 {
+    font-size: 28px;
+    font-weight: 100;
+}

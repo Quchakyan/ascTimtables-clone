@@ -1,0 +1,14 @@
+.container {
+    background-color: #363636;
+    color: white;
+    text-align: left;
+    padding: 24px 60px;
+}
+.ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+.title {
+    text-transform: capitalize;
+    font-size: 48px;
+}

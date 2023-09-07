@@ -1,0 +1,11 @@
+.header {
+    box-sizing: border-box;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2.4rem;
+}
+.logo {
+    cursor: pointer;
+}
